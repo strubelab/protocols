@@ -39,11 +39,11 @@ The following materials and reagents are needed:
 
 2. Step 2
 
-  - sub-point, notes
+    - :exclamation: important note
 
 3. Step 3
 
-  3.1 numbered sup-step
+    3.1 numbered sup-step
   
 
 ## 3. Discussion <a name="notes"></a>
