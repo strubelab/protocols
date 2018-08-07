@@ -5,7 +5,7 @@ Standard Protocol collection
 
   1. copy the protocol template sp0001_standardtemplate.md
 
-  2. file name format `sp0000_title.md`
+  2. file name format [`sp000_title.md`](sp0000_title.md)
 
       - `sp` is lowercase
       - replace `0000` by the next available number; use leading zeros
