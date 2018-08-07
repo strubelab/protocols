@@ -3,12 +3,12 @@ Standard Protocol collection
 
 ### In order to create a new protocol:
 
-  1. copy the protocol template [sp0001_protocoltemplate.md](sp0001_protocoltemplate.md)
+  1. copy the protocol template [sp001_protocoltemplate.md](sp001_protocoltemplate.md)
 
-  2. file name format `sp0000_title.md`
+  2. file name format `sp000_title.md`
 
       - `sp` is lowercase
-      - replace `0000` by the next available number; use leading zeros
+      - replace `000` by the next available number; use leading zeros
       - append `_` and a very short title or acronym in lowercase letters
       - append file ending `.md` (indicating markdown format)
 
@@ -19,7 +19,7 @@ Standard Protocol collection
   commands work (repeat as you make changes, adapt the file name):
 
       ```sh
-      git add sp0000_title.md
+      git add sp000_title.md
       git commit -m 'initial commit protocol sp0000'
       ```
 
