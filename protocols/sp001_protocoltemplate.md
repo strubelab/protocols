@@ -3,7 +3,7 @@ SP 001 -- Your short title
 
 < :exclamation: Note 2: you really need to look at this in raw / editing mode :smiley:  >
 
-Standard Protocol     |
+Standard Protocol     | <leave empty>
 ----------------------|------------------------------------------------------------------
 **Authors**           | Author 1, Author 2
 **Replaces**          | e.g. [SP013](sp013_oldprotocol.md)
