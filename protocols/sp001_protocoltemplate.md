@@ -4,19 +4,17 @@ SP 001 -- Your short title
 < :exclamation: Note 2: you really need to look at this in raw / editing mode :smiley:  >
 
 Standard Protocol     |
-----------------------|--------------
+----------------------|------------------------------------------------------------------
 **Authors**           | Author 1, Author 2
 **Replaces**          | e.g. [SP013](sp013_oldprotocol.md)
 **Related Protocols** | e.g. [SP013](sp013_oldprotocol.md), [SP014](sp014_newprotocol.md)
 **Status**            | Draft / Active / Deprecated
 **Created**           | 08-Oct-2018 <insert current date>
 
------------
 ## Abstract
 
 Provide a short summary.
 
----------------------
 ## Table of Contents
 
 * [1. Materials](#materials)
@@ -26,7 +24,6 @@ Provide a short summary.
 * [5. References](#references)
 
 
------------------------------------------
 ## 1. Materials <a name="materials"></a>
 
 The following materials and reagents are needed:
@@ -36,7 +33,6 @@ The following materials and reagents are needed:
 - Material 2 -- explanation / catalogue numbers
 
 
------------------------------------------
 ## 2. Procedure <a name="procedure"></a>
 
 1. Step 1
@@ -50,13 +46,11 @@ The following materials and reagents are needed:
   3.1 numbered sup-step
   
 
--------------------------------------
 ## 3. Discussion <a name="notes"></a>
 
 Any additional comments & discussion
 
 
-----------------------------------------------
 ## 4. Related Protocols <a name="related"></a>
 
 Provide links to related protocols from SP list or from other online sources.
@@ -66,7 +60,6 @@ Provide links to related protocols from SP list or from other online sources.
 - [openwetware protocol](http://openwetware.org/protocols/test) -- link to outside protocol
 
 
-------------------------------------------
 ## 5. References <a name='references'></a>
 
 < list references as follows >
