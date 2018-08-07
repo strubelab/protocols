@@ -3,7 +3,7 @@ Standard Protocol collection
 
 ### In order to create a new protocol:
 
-  1. copy the protocol template [sp0001_standardtemplate.md](sp0001_standardtemplate.md)
+  1. copy the protocol template [sp0001_protocoltemplate.md](sp0001_protocoltemplate.md)
 
   2. file name format `sp0000_title.md`
 
