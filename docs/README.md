@@ -3,7 +3,7 @@ Project Web Site
 
 A project website is accessible from: https://graik.github.io/wetproject/
 
-Not sure how useful this feature is. For fast-changing content, the [github Wiki](https://github.com/graik/wetproject/wiki) may be more adequate.
+Not sure how useful this feature is. For fast-changing content, the [github Wiki](https://github.com/graik/wetproject/wiki) may be more adequate. The design template for this Website can be adjusted in the project settings on github or by editing the [`_config.yml`](_config.yml) file in the `docs` folder.
 
 ## Project Description
 
