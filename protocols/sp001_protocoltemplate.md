@@ -46,7 +46,7 @@ The following materials and reagents are needed:
     3.1 numbered sup-step
   
 
-## 3. Discussion <a name="notes"></a>
+## 3. Discussion <a name="discussion"></a>
 
 Any additional comments & discussion
 
