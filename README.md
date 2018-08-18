@@ -1,12 +1,14 @@
 ## Project Management Template
 
+This is a tentative template for managing an experimental project via gitHub. The important sections are:
 
-### Materials
+  1. Protocols: collected in [protocols folder](protocols)
 
-### Constructs
+  2. Sequences: collected in [sequences folder](sequences)
 
-### Protocols
+  3. Project Management Board: see the [Projects section](https://github.com/graik/wetproject/projects) on github
 
+  4. Low-key web site: edit pages in [docs folder](docs), access it under https://graik.github.io/wetproject/
 
 ### Help
 
