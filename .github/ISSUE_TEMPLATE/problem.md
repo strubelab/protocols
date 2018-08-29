@@ -5,7 +5,7 @@ about: Report a problem
 ---
 
 __affects protein or construct:__ ID and link
-__affects protocol:__ [ID](protocols/sp001_protocoltemplate.md)
+__affects protocol:__ [ID](../protocols/sp001_protocoltemplate.md)
 
 **Describe the problem**
 A clear and concise description of what the bug is.
