@@ -26,6 +26,8 @@ This is a tentative template for managing an experimental project via gitHub. Th
 
   3. Adapt the links in this `README.md` to point to your new project rather than the template
   
+  4. Issue templates will be copied but [Issue labels](https://github.com/graik/wetproject/labels) won't -- re-create the labels manually
+  
 Note: protocols could also be shared between repositories if we decide to merge modifications back to the original repository using pull requests. This will not affect issue tracking and project boards, which will remain separate. However, the simple website in [docs](docs) will be affected -- merging things back and forth, would mean that we cannot have different websites for each repository.
 
 ### Help
