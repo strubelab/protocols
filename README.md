@@ -8,7 +8,25 @@ This is a tentative template for managing an experimental project via gitHub. Th
 
   3. Project Management Board: see the [Projects section](https://github.com/graik/wetproject/projects) on github
 
-  4. Low-key web site: edit pages in [docs folder](docs), access it under https://graik.github.io/wetproject/
+  4. Customized templates for the [issue tracker](https://github.com/graik/wetproject/issues)
+
+  5. Low-key web site: edit pages in [docs folder](docs), access it under https://graik.github.io/wetproject/
+
+
+## Creating your own experimental project
+
+  1. Fork this repository (see `Fork` Button up right)
+  
+  2. Copy the project board -- [GitHub help](https://help.github.com/articles/copying-a-project-board/)
+  
+      - navigate to the original project board (in this repo)
+      - open `Menu` (upper right)
+      - click the *** (the three dots for additional options)
+      - select `copy` and chose your new repository as a destination
+
+  3. Adapt the links in this `README.md` to point to your new project rather than the template
+  
+Note: protocols could also be shared between repositories if we decide to merge modifications back to the original repository using pull requests. This will not affect issue tracking and project boards, which will remain separate. However, the simple website in [docs](docs) will be affected -- merging things back and forth, would mean that we cannot have different websites for each repository.
 
 ### Help
 
