@@ -25,39 +25,37 @@ Example cards and issues are supposed to show how this can be useful. Generally,
       - create "DNA request" issues for each required construct in the issue tracker
           - use the "DNA request" template and then apply the "DNA" label
           - assign them to the project board (right column in issue tracker)
-      - sequence design in Benchling (on project board, move issue to "In Progress")
-      - update DNA issues with links to benchling record
-      - when done, tick off the [ ] "sequence design" checkbox in the issue
+      - move DNA cards to "In Progress" and update the issues with benchling and rotmic links as you progress with sequence design
+      - [ ] when done, tick off the "sequence design" checkbox for the DNA request (issue)
      
   3. Order fragments, primers, synthetic genes
-      - register final construct list in Rotmic
-          - tick off the [ ] "rotmic registration" checkbox and update Rotmic links
-      - place the order
-          - tick of [ ] "gene synthesis order" checkbox
+      - register final construct list in Rotmic (in issue, tick off "rotmic registration" checkbox and update links)
+      - place the order (tick of "gene synthesis order" checkbox)
       
   4. DNA assembly
       - when done, register final and verified samples in Rotmic
-      - tick off [ ] "sample registration", optionally add location
+      - [ ] tick off "sample registration", optionally add location
       - close the DNA request
-      - create "Problem" issues for tracking failed assemblies 
+        - create "Problem" issues for tracking failed assemblies without getting stuck 
       - close the synthesis Milestone when all DNA requests are fulfilled
       
   5. Protein production
       - create "Protein request" issues, assign them to project board
       - prioritize proteins for production by moving them from "Backlog" to "To Do next"
-      - move cards to "In progress" and tick off [ ] checkboxes as you move along
+      - move cards to "In progress" and update issue cards as you go along
       - close Protein requests when proteins samples are ready and registered
       - close any "protein Milestone" when all needed samples are ready
   
   6. Plan Measurements
-      - create "Experiment" issue for each planned experiment, assign issue to board
+      - create "Experiment request" for each planned experiment, assign issue to board
       - create "Material request" for each still missing material / reagent, assign to board
       - add other activities directly to board (without creating issues)
       - create new Milestone(s)
+      - create new "standard protocol" pages for often repeated methods
 
   7. Perform Measurements
       - move "Experiment Request" card into "In Progress" column
-      - update "Experiment Request" issues as you go along, create "Problem" issues
+      - update "Experiment Request" issues as you go along, create "Problem" issues if needed
       - close Experiment Request when done, work towards closing the Milestone
   
   8. Finalize project
