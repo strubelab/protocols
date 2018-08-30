@@ -30,6 +30,6 @@ Standard Protocol collection
       git push
       ```
 
-
+Alternatively, and perhaps easier, you can also simply click the "Create new file" button on GitHub, copy-paste the content of the template into the new file and then edit and commit directly from the GitHub website.
 
 
