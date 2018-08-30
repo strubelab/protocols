@@ -78,7 +78,7 @@ Example cards and issues are supposed to show how this can be useful. Generally,
   
   4. Issue templates will be copied but [Issue labels](https://github.com/graik/wetproject/labels) won't -- re-create the labels manually
   
-Note: protocols could also be shared between repositories if we decide to merge modifications back to the original repository using pull requests. This will not affect issue tracking and project boards, which will remain separate. However, the simple website in [docs](docs) will be affected -- merging things back and forth, would mean that we cannot have different websites for each repository.
+Note: protocols could also be shared between repositories if we decide to merge modifications back to the original repository using pull requests. This will not affect issue tracking and project boards, which will remain separate. However, the simple website in [docs](docs) will be affected -- merging things back and forth, would mean that we cannot have different websites for each repository, which shouldn't really be a problem though.
 
 ### Help
 
