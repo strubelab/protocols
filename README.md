@@ -32,7 +32,20 @@ Example cards and issues are supposed to show how this can be useful. A more det
   
   4. Issue templates will be copied but [Issue labels](https://github.com/graik/wetproject/labels) won't -- re-create the labels manually
   
-Note: protocols could also be shared between repositories if we decide to merge modifications back to the original repository using pull requests. This will not affect issue tracking and project boards, which will remain separate. However, the simple website in [docs](docs) will be affected -- merging things back and forth, would mean that we cannot have different websites for each repository, which shouldn't really be a problem though.
+
+### Protocol sharing ###
+
+A potential problem is that protocols will get spread out over many project repositories. This could be avoided if we either:
+
+* ... collect protocols in one separate repository that is used by the whole lab (e.g. strube-protocols) 
+     and create project-specific repositories only for project management
+
+* ... or use this template repository as the central protocol repository 
+
+* ... and / or merge any changes in protocols that happen in forked repositories back to this central 
+  repository using pull requests. Project boards and issues will not be affected by the merge and will
+  remain separate. Issue templates and the minimal website in [docs](docs) will be affected though and
+  child repositories could in theory mess up the common templates or website.
 
 ### Help
 
