@@ -12,6 +12,60 @@ This is a tentative template for managing an experimental project via gitHub. Th
 
   5. Low-key web site: edit pages in [docs folder](docs), access it under https://graik.github.io/wetproject/
 
+### Tentative Workflow
+
+Example cards and issues are supposed to show how this can be useful. Generally, the workflow could look like this:
+
+  1. Sprint / sub-project setup
+      - create (copy) a new project board for a clearly defined experimental challenge
+      - optionally, define one or more Milestones in the issue tracker (e.g. "DNA synthesis xx/2018", "protein production")
+      - the first card on the board "ToDo" should probably be "Construct planning"
+      
+  2. Construct planning
+      - create "DNA request" issues for each required construct in the issue tracker
+          - use the "DNA request" template and then apply the "DNA" label
+          - assign them to the project board (right column in issue tracker)
+      - sequence design in Benchling (on project board, move issue to "In Progress")
+      - update DNA issues with links to benchling record
+      - when done, tick off the [ ] "sequence design" checkbox in the issue
+     
+  3. Order fragments, primers, synthetic genes
+      - register final construct list in Rotmic
+          - tick off the [ ] "rotmic registration" checkbox and update Rotmic links
+      - place the order
+          - tick of [ ] "gene synthesis order" checkbox
+      
+  4. DNA assembly
+      - when done, register final and verified samples in Rotmic
+      - tick off [ ] "sample registration", optionally add location
+      - close the DNA request
+      - create "Problem" issues for tracking failed assemblies 
+      - close the synthesis Milestone when all DNA requests are fulfilled
+      
+  5. Protein production
+      - create "Protein request" issues, assign them to project board
+      - prioritize proteins for production by moving them from "Backlog" to "To Do next"
+      - move cards to "In progress" and tick off [ ] checkboxes as you move along
+      - close Protein requests when proteins samples are ready and registered
+      - close any "protein Milestone" when all needed samples are ready
+  
+  6. Plan Measurements
+      - create "Experiment" issue for each planned experiment, assign issue to board
+      - create "Material request" for each still missing material / reagent, assign to board
+      - add other activities directly to board (without creating issues)
+      - create new Milestone(s)
+
+  7. Perform Measurements
+      - move "Experiment Request" card into "In Progress" column
+      - update "Experiment Request" issues as you go along, create "Problem" issues
+      - close Experiment Request when done, work towards closing the Milestone
+  
+  8. Finalize project
+      - optionally collect core data in repository sub-directories
+      - review all open issues and cards
+      - close last Milestones
+      - close Project board
+      - create new Project board for publication or next sprint, assign left-over issues to new Milestones and board
 
 ### Creating your own experimental project
 
