@@ -13,7 +13,7 @@ This is a tentative template for managing an experimental project via gitHub. Th
   5. Low-key web site: edit pages in [docs folder](docs), access it under https://graik.github.io/wetproject/
 
 
-## Creating your own experimental project
+### Creating your own experimental project
 
   1. Fork this repository (see `Fork` Button up right)
   
