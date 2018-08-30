@@ -26,7 +26,6 @@ Example cards and issues are supposed to show how this can be useful. Generally,
           - use the "DNA request" template and then apply the "DNA" label
           - assign them to the project board (right column in issue tracker)
       - move DNA cards to "In Progress" and update the issues with benchling and rotmic links as you progress with sequence design
-      - [ ] when done, tick off the "sequence design" checkbox for the DNA request (issue)
      
   3. Order fragments, primers, synthetic genes
       - register final construct list in Rotmic (in issue, tick off "rotmic registration" checkbox and update links)
@@ -34,7 +33,6 @@ Example cards and issues are supposed to show how this can be useful. Generally,
       
   4. DNA assembly
       - when done, register final and verified samples in Rotmic
-      - [ ] tick off "sample registration", optionally add location
       - close the DNA request
         - create "Problem" issues for tracking failed assemblies without getting stuck 
       - close the synthesis Milestone when all DNA requests are fulfilled
