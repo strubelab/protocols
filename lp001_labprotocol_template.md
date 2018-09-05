@@ -1,12 +1,12 @@
-SP 001 -- Your short title
+Your short descriptive title
 ===================================
 
 < :exclamation: Note 2: you really need to look at this in raw / editing mode :smiley:  >
 
-Standard Protocol     | <leave empty>
+Lab Protocol          | 001
 ----------------------|------------------------------------------------------------------
 **Authors**           | Author 1, Author 2
-**Replaces**          | e.g. [SP013](sp013_oldprotocol.md)
+**Replaces**          | e.g. [SP013](sp013_oldprotocol.md) or remove
 **Related Protocols** | e.g. [SP013](sp013_oldprotocol.md), [SP014](sp014_newprotocol.md)
 **Status**            | Draft / Active / Deprecated
 **Created**           | 08-Oct-2018 <insert current date>
@@ -37,7 +37,9 @@ The following materials and reagents are needed:
 
 1. Step 1
     - You can add Images like this:
-    ![image](img/lp001_example.png)
+    
+        ![image](img/lp001_example.png)
+    
     - please use `png` if possible and place the file in the `img` sub-folder
     - please start the image file name with the protocol number (e.g `lp001_example01.png`)
 
