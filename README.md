@@ -3,7 +3,7 @@ Strube Lab Protocol collection
 
 ### In order to create a new protocol:
 
-  1. copy the protocol template [lp001_protocoltemplate.md](lp001_protocoltemplate.md)
+  1. copy the protocol template [lp001_labprotocol_template.md](lp001_labprotocol_template.md)
 
   2. file name format `lp000_title.md`
 
