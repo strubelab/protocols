@@ -36,6 +36,10 @@ The following materials and reagents are needed:
 ## 2. Procedure <a name="procedure"></a>
 
 1. Step 1
+    - You can add Images like this:
+    ![image](img/lp001_example.png)
+    - please use `png` if possible and place the file in the `img` sub-folder
+    - please start the image file name with the protocol number (e.g `lp001_example01.png`)
 
 2. Step 2
 
