@@ -1,11 +1,11 @@
 Strube Lab Protocol collection
 ==============================
 
-### In order to create a new protocol:
+## In order to create a new protocol:
 
   Click the "Create new file" button on GitHub, copy-paste the raw content of the [template](lp001_labprotocol_template.md) into the new file and then edit and commit directly from the GitHub website.
 
-#### File name format `lp000_title.md`
+### File name format `lp000_title.md`
 
   - `lp` is lowercase for 'lab protocol'
       - we may introduce other prefixes such as `ip` (instrument protocol), `rp` (reagent protocol
@@ -14,7 +14,7 @@ Strube Lab Protocol collection
   - append file ending `.md` (indicating markdown format)
 
 
-#### Or create new protocol offline using git
+### Or create new protocol offline using git
 
   This is the more efficient and professional choice for larger protocols:
   
