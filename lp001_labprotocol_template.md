@@ -6,8 +6,8 @@ Your short descriptive title
 Lab Protocol          | 001
 ----------------------|------------------------------------------------------------------
 **Authors**           | Author 1, Author 2
-**Replaces**          | e.g. [SP013](sp013_oldprotocol.md) or remove
-**Related Protocols** | e.g. [SP013](sp013_oldprotocol.md), [SP014](sp014_newprotocol.md)
+**Replaces**          | e.g. [LP013](lp013_oldprotocol.md) or remove
+**Related Protocols** | e.g. [LP013](lp013_oldprotocol.md), [LP014](lp014_newprotocol.md)
 **Status**            | Draft / Active / Deprecated
 **Created**           | 08-Oct-2018 <insert current date>
 
@@ -59,9 +59,9 @@ Any additional comments & discussion
 
 ## 4. Related Protocols <a name="related"></a>
 
-Provide links to related protocols from SP list or from other online sources.
+Provide links to related protocols from LP list or from other online sources.
 
-- [SP 013](sp013_oldprotocol.md) -- a link to another standard protocol
+- [LP 013](lp013_oldprotocol.md) -- a link to another lab protocol
 
 - [openwetware protocol](http://openwetware.org/protocols/test) -- link to outside protocol
 
@@ -70,7 +70,6 @@ Provide links to related protocols from SP list or from other online sources.
 
 < list references as follows >
 
-[SBOL]: http://sbolstandard.org
 [1]: https://www.python.org/dev/peps/pep-0001
 
-< refer to these references in the text as, e.g. [SBOL] or [1] >
+< refer to these references in the text as, e.g. [1] >
