@@ -91,7 +91,7 @@ Regeneration of Ni-NTA beads for protein purification
 
 ## 4. Related Protocols <a name="related"></a>
 
-- [Qiagen Expression Handbook](https://www.qiagen.com/mx/resources/resourcedetail?id=79ca2f7d-42fe-4d62-8676-4cfa948c9435&lang=en
+- [Qiagen Expression Handbook](https://www.qiagen.com/mx/resources/resourcedetail?id=79ca2f7d-42fe-4d62-8676-4cfa948c9435&lang=en)
 
 
 ## 5. References <a name='references'></a>
