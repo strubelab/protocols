@@ -1,8 +1,6 @@
 His-tag protein purification
 ===================================
 
-< :exclamation: Note 2: you really need to look at this in raw / editing mode :smiley:  >
-
 Lab Protocol          | 003
 ----------------------|------------------------------------------------------------------
 **Authors**           | Raik Gruenberg
@@ -28,10 +26,15 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
 - 1M Tris-HCl stock
 
 - 1M Imidazole stock
+   * 68.08g Imidzaole
+   * ad 1L
 
 - 2L Base-buffer for lysis and binding and everything
-   * 27.5mM Tris-HCl pH 7.4, 0.55M NaCl, 44mM Imidazole, 11% Glycerol
-   * 
+      - 27.5mM Tris-HCl pH 7.4, 0.55M NaCl, 44mM Imidazole, 11% Glycerol
+   * 55 mL 1M Tris-HCl
+   * fill to 1.8 L with ice-cold water
+   * adjust pH to 7.4
+   * ad 2L
    
 - 0.5L Lysis buffer -- for chemical lysis, the idea is to add bugbuster **after** dissolving the pellet
    * final: 25mM Tris-HCl pH 7.4, 0.5M NaCl, 40mM Imidazole, 10% Glycerol, 1 mM TCEP, 1xBugbuster, Compete, Benzonase 25U/ml, lysozyme
