@@ -1,7 +1,7 @@
 His-tag protein purification
 ===================================
 
-Lab Protocol          | 003
+Lab Protocol          | 004
 ----------------------|------------------------------------------------------------------
 **Authors**           | Raik Gruenberg
 **Related Protocols** | 
