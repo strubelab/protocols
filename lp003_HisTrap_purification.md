@@ -51,7 +51,7 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
       - spatula of Lysozyme
    
 - 1L Binding Buffer
-   * 0.9L Stock buffer
+   * 0.9L base-buffer buffer
    * 0.1L H2O
    * add before use:
       - 1 mL 1M TCEP
