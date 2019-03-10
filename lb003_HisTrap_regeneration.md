@@ -48,14 +48,13 @@ Regeneration of GE HisTrap column by stripping and re-charging.
     - all solutions can be stored in cold room or sterile-filtered at room temperature
 
 2. Strip beads (remove Ni++ with EDTA)
-    - run 5-10 CV stripping buffer
-    - wash with 5-10 CV H2O
+    - 5 CV H2o @ 20 ml/min
+    - 8 CV stripping buffer @ 10 ml/min (recommended 5-10 CV)
 
 3. Clean-in-place (CIP)
-    - fill column with 1M NaOH
-    - pause for contact time of 1-2 h
-    - wash with 10 CV binding buffer for pH adjustment
-    - 5-10 CV H2O
+    - 4 CV 1M NaOH @ 15 ml/min (fill column)
+    - pause for contact time of 1h (recommended 1-2h)
+    - 10 CV binding buffer for pH adjustment
     Note: 
         recommended cleaning for more hydrophobically bound protein is 0.1-0.5% 
         non-ionic detergent in 0.1 M Acetic acid with a contact time of 1-2 h.
