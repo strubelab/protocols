@@ -31,8 +31,11 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
 
 - 2L Base-buffer for lysis and binding and everything
    [27.5mM Tris-HCl pH 7.4, 0.55M NaCl, 44mM Imidazole, 11% Glycerol]
-   * 55 mL 1M Tris-HCl
-   * fill to 1.8 L with ice-cold water
+   * + 252 g Glycerol (weigh into glass beaker as the first step)
+   * + 55 mL 1M Tris-HCl
+   * fill to about 1.7 L with ice-cold water
+   * + 64.28g NaCl
+   * + 88 mL 1M Imidazole
    * adjust pH to 7.4
    * ad 2L
    
