@@ -39,13 +39,13 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
    * adjust pH to 7.4
    * ad 2L
    
-- 0.5L Lysis buffer -- for chemical lysis, the idea is to add bugbuster **after** dissolving the pellet
+- 0.25L Lysis buffer -- for chemical lysis, the idea is to add bugbuster **after** dissolving the pellet
    [final: 25mM Tris-HCl pH 7.4, 0.5M NaCl, 40mM Imidazole, 10% Glycerol, 1 mM TCEP, 1xBugbuster, Compete, Benzonase 25U/ml, lysozyme]
-   * 0.45L Base-Buffer (27.5mM Tris-His...)
+   * 0.25L Base-Buffer (27.5mM Tris-His...)
    * add before use: 
-       - 10 tablets of ComPete Protease inhibitor EDTA-free (normal, not the Mini)
-       - xx uL Benzonase to 25 U/ml final
-       - 0.5 mL 1M TCEP
+       - 5 tablets of ComPete Protease inhibitor EDTA-free (normal, not the Mini)
+       - 2.5 uL Benzonase (380 U/µl)
+       - 0.25 mL 1M TCEP
    * after dissolving pellet in 36mL buffer, add:
       - 4 mL 10x Bugbuster to 1x
       - spatula of Lysozyme
@@ -74,7 +74,7 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
    - transfer into 2 x 30 mL centrifuge tubes
    - spin down 45min @ 80.000g
    - filter clarified lysate through Miracloth into 50 mL Falcon or 100 mL glass bottle
-4. Affinity capture
+4. Affinity capture (AKTA)
 
 ## 3. Discussion <a name="discussion"></a>
 
