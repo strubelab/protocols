@@ -41,7 +41,7 @@ Affinity purifcation of His-tagged proteins on HisTrap column.
    
 - 0.25L Lysis buffer -- for chemical lysis, the idea is to add bugbuster **after** dissolving the pellet
    [final: 25mM Tris-HCl pH 7.4, 0.5M NaCl, 40mM Imidazole, 10% Glycerol, 1 mM TCEP, 1xBugbuster, Compete, Benzonase 25U/ml, lysozyme]
-   * 0.25L Base-Buffer (27.5mM Tris-His...)
+   * 0.25L Base-Buffer (27.5mM Tris-His...) (use 0.225 for perfectly accurate)
    * add before use: 
        - 5 tablets of ComPete Protease inhibitor EDTA-free (normal, not the Mini)
        - 2.5 uL Benzonase (380 U/µl)
